@@ -1,3 +1,6 @@
+![Cabecera](https://github.com/e-legal032/e-legal032/blob/main/assets/wireFrame_brickRedICONOS_1920.png?raw=true)
+
+
 # 👋 Hola, soy Ana Sposito
 
 Desarrolladora web, consultora técnica y educadora científica.  
